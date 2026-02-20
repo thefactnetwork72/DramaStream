@@ -1,0 +1,29 @@
+{
+  "dramas": [
+    {
+      "title": "Lovely Runner",
+      "poster": "https://image.tmdb.org/t/p/w500/6YyoOW1p1Q6G5t5L2YV5g6x7d0T.jpg",
+      "link": "https://www.youtube.com/watch?v=example",
+      "embed": "https://www.youtube.com/embed/example",
+      "category": "Romance",
+      "description": "Time-travel romance drama"
+    },
+    {
+      "title": "Queen of Tears",
+      "poster": "https://image.tmdb.org/t/p/w500/example2.jpg",
+      "link": "https://www.youtube.com/watch?v=example2",
+      "embed": "https://www.youtube.com/embed/example2",
+      "category": "Drama",
+      "description": "Emotional family & revenge story"
+    }
+  ],
+  "categories": [
+    "Action",
+    "Adventure",
+    "Romance",
+    "Comedy",
+    "Drama",
+    "Ongoing",
+    "Completed"
+  ]
+}
